@@ -1,4 +1,4 @@
-# 🏆 FlagGenius: The Ultimate CTF Flag Generator 🏆
+# 🏆 FlagGenius 🏆
 
 ## Introduction
 
