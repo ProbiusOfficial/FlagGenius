@@ -1,5 +1,6 @@
 # 🏆 FlagGenius 🏆
 
+
 ## Introduction
 
 FlagGenius is a revolutionary CTF tool designed for those contestants seeking quick and easy solutions. In this fast-paced world, we understand that time is of the essence, and thus we have created FlagGenius to generate a perfect flag with just one click, without the need to delve into the complexities behind the problems.
